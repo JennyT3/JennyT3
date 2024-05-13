@@ -12,4 +12,4 @@ I'm a psychologist, photographer, and idea generator, passionate about making th
 - 💬 Ask me about psychology, photography, blockchain technology, or community building!
 - 📫 How to reach me: Feel free to reach out via jennyt.eth@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I once traveled to five different countries in one month to capture unique cultural moments through my photography.🔭 I’m currently working on 
+- ⚡ Fun fact: I once traveled to five different countries in one month to capture unique cultural moments through my photography.
