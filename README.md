@@ -1,5 +1,5 @@
 ###  8 15 12 1  👋 Welcome to my code profile !
-<img src = "baner.gif" width = "325px">
+<img src = "Hi.gif" width = "325px">
 <!--
 **JennyT3/JennyT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
