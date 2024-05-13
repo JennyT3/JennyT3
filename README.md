@@ -10,6 +10,6 @@ I'm a psychologist, photographer, and idea generator, passionate about making th
 - 👯 I’m looking to collaborate on projects related to blockchain education, community building, and photography.
 - 🤔 I’m looking for help with expanding my network and finding opportunities to contribute to meaningful projects in the crypto space.
 - 💬 Ask me about psychology, photography, blockchain technology, or community building!
-- 📫 How to reach me: Feel free to reach out via [email protected]
+- 📫 How to reach me: Feel free to reach out via jennyt.eth@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I once traveled to five different countries in one month to capture unique cultural moments through my photography.🔭 I’m currently working on 
