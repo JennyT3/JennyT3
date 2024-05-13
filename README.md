@@ -13,5 +13,3 @@ I'm a psychologist, photographer, and idea generator, passionate about making th
 - 📫 How to reach me: Feel free to reach out via [email protected]
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I once traveled to five different countries in one month to capture unique cultural moments through my photography.🔭 I’m currently working on 
-<div 
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
