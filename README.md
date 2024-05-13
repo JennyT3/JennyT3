@@ -13,14 +13,5 @@ I'm a psychologist, photographer, and idea generator, passionate about making th
 - 📫 How to reach me: Feel free to reach out via [email protected]
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I once traveled to five different countries in one month to capture unique cultural moments through my photography.🔭 I’m currently working on 
-<div id='soc'> 
-
-  <div class='twitter'><a href='[http://www.twitter.com](https://twitter.com/jennyt_eth)'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Twitter-icon.png'/></a></div>
-    <div class='youtube'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Youtube-icon.png'/></a></div>
-    <div class='google'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Google-plus-icon.png'/></a></div>
-    <div class='blogger'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Blogger-icon.png'/></a></div>
-    <div class='instagram'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Instagram-icon.png'/></a></div>
-    <div class='reddit'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Reddit-icon.png'/></a></div>
-    <div class='linkedin'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Linkedin-icon.png'/></a></div>
-
-    </div> 
+<div 
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
