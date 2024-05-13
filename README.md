@@ -1,5 +1,5 @@
 ###  8 15 12 1  👋 Welcome to my code profile !
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0MjA4c2xsbnp3Y2p4bTUycjVnZzY5N3Q0bGs5MDN3NndjbXg0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif
+<img src = "hi.gif" width = "325px">
 <!--
 **JennyT3/JennyT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
