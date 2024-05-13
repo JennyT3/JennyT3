@@ -15,9 +15,7 @@ I'm a psychologist, photographer, and idea generator, passionate about making th
 - ⚡ Fun fact: I once traveled to five different countries in one month to capture unique cultural moments through my photography.🔭 I’m currently working on 
 <div id='soc'> 
 
-
-  <div class='facebook'><a href='http://www.facebook.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Facebook-icon.png'/></a></div>
-    <div class='twitter'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Twitter-icon.png'/></a></div>
+  <div class='twitter'><a href='[http://www.twitter.com](https://twitter.com/jennyt_eth)'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Twitter-icon.png'/></a></div>
     <div class='youtube'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Youtube-icon.png'/></a></div>
     <div class='google'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Google-plus-icon.png'/></a></div>
     <div class='blogger'><a href='http://www.twitter.com'><img src='http://icons.iconarchive.com/icons/designbolts/flat-social-media/96/Blogger-icon.png'/></a></div>
