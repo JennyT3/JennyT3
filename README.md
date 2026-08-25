@@ -2,7 +2,7 @@
 Psychologist Tech | Web3 | Crypto | Blockchain | Community Building | Growth Marketing Digital
 <img src = "Hi.gif" width = "325px">
 #  About Me
-Born in Colombia 🇨🇴  with a heart in  Argentina 🇦🇷 currently living in  Madeira, Portugal 🇵🇹. 
+Born in Colombia 🇨🇴  with a heart in  Argentina 🇦🇷 currently living in  Portugal 🇵🇹. 
 I'm a psychologist, photographer, and idea generator, passionate about making things happen. My journey has led me to embrace the crypto ecosystem, where I strive to foster education and community building in the web3 space. 
 
 - 🔭 I’m currently working on building communities and educational initiatives in the Web3 and crypto ecosystem.
